@@ -9,4 +9,4 @@ Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um
 Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
 
 ## Notas e créditos
-Feito por Guilherme Silveira, instrutor e fundador da Alura.
+Feito por stephany tonin.
